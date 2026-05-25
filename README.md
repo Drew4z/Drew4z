@@ -36,12 +36,11 @@ Soy un desarrollador de software enfocado en el ecosistema backend, pero con una
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+# 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drew4z&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Andrew" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drew4z&layout=compact&theme=dark" alt="Lenguajes más usados" height="192px"/>
-</p>
+![Estadísticas de Andrew](https://github-readme-stats.vercel.app/api?username=Drew4z&show_icons=true&theme=dark&include_all_commits=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew4z&layout=compact&theme=dark)
 
 ---
 
