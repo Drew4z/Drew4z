@@ -36,14 +36,6 @@ Soy un desarrollador de software enfocado en el ecosistema backend, pero con una
 
 ---
 
-# 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de Andrew](https://github-readme-stats.vercel.app/api?username=Drew4z&show_icons=true&theme=dark&include_all_commits=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew4z&layout=compact&theme=dark)
-
----
-
 ### 📨 Conecta conmigo
 
 ¡Estoy abierto a oportunidades laborales y colaboraciones que me permitan seguir creciendo!
